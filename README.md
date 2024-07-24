@@ -4,7 +4,6 @@ Welcome to the **Flask CRUD API Tutorial** repository! This project is a beginne
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Contact](#4049569463)
 
 ## Introduction
 This tutorial is perfect for beginners who are just getting started with Flask and want to learn how to build a basic API to Create, Read, Update, and Delete items. The source code for this tutorial is available in this repository.
