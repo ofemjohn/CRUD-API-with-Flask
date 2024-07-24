@@ -4,12 +4,6 @@ Welcome to the **Flask CRUD API Tutorial** repository! This project is a beginne
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
 - [Contact](#4049569463)
 
 ## Introduction
